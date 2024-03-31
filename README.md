@@ -27,6 +27,6 @@
 - You can check it using `npm start`, it will open the website locally on your browser.
 
 
-Credits of template to this portfolio goes to **[click here](https://ashutosh1919.github.io/)**
+Credits of template to this portfolio goes to **[here](https://ashutosh1919.github.io/)**
 
-Repsitory Link- **[click here](https://github.com/ashutosh1919)**
+Repsitory Link- **[here](https://github.com/ashutosh1919/masterPortfolio)**
